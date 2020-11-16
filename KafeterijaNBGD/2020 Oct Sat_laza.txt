@@ -1,0 +1,5 @@
+Korisnik  laza je porucio sledece proizvode: 
+proizvod: Cappuccino kolicina: 1 cena po komadu: 180 RSD
+
+
+Ukupan cena narucenih proizvoda: 180 RSD

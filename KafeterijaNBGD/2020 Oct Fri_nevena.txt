@@ -1,0 +1,5 @@
+Korisnik  nevena je porucio sledece proizvode: 
+proizvod: Caffee Americano kolicina: 1 cena po komadu: 150 RSD
+
+
+Ukupan cena narucenih proizvoda: 150 RSD

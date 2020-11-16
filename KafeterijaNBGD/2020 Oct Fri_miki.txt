@@ -1,0 +1,5 @@
+Korisnik  miki je porucio sledece proizvode: 
+proizvod: Caffee Latte kolicina: 1 cena po komadu: 200 RSD
+
+
+Ukupan cena narucenih proizvoda: 200 RSD

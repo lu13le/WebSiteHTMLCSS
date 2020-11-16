@@ -1,0 +1,41 @@
+.kont{
+	width: 400px;
+	
+	
+}
+h2{
+	 font-size: 40px;
+    text-shadow: 1px 2px orange;
+    color:	 #4d3319;
+    
+
+}
+
+
+.contact-form{
+	box-sizing: border-box;
+	padding: 10px;
+}
+
+textarea{
+	height: 100px;
+}
+
+textarea,input{
+	box-sizing: border-box;
+	width: 100%;
+	margin-bottom: 10px;
+}
+form{
+	background-color: #f2f2f2;
+	border-radius: 2%;
+	border:2px solid #ac7339;
+	padding:10px;
+
+
+}
+
+
+input{
+	height: 30px;
+}
